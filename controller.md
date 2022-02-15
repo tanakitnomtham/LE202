@@ -26,3 +26,13 @@ https://www.arduitronics.com/product/4602/arduino-nano-33-iot-บอร์ดแ
 ความเร็ว 48 Mhz
 หน่วยความจำ 32KB
 พอร์ท micro usb
+![zf](https://user-images.githubusercontent.com/98944174/153988272-5f4f56fe-e6b6-4443-8ad0-cd2c6660277d.jpg)
+ชื่อโมเดล EMW3165
+ราคา 370 บาท
+https://www.arduitronics.com/p/2723
+ความเร็ว 100Mhz
+หน่วยความจำ 128 KB
+พอร์ท usb c
+
+
+
